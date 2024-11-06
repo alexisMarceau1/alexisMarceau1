@@ -17,7 +17,7 @@ in the world of data science and machine learning. I'm passionate about tackling
 ### Projects I'm Proud Of
 
 - **Credit Scoring Model**: A full-fledged credit scoring dashboard that predicts loan default probabilities, complete with a streamlined front-end and robust back-end.
-- **Energy Consumption Analysis**: Exploratory Data Analysis (EDA) project predicting energy usage, including feature engineering and model optimization.
+- **[Energy Consumption Analysis](https://github.com/alexisMarceau1/SeattleEnergyForecast)**: Exploratory Data Analysis (EDA) project predicting energy usage, including feature engineering and model optimization.
 
 ---
 
