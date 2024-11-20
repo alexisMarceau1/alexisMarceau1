@@ -3,6 +3,8 @@
 I'm Alexis, a data enthusiast who loves uncovering patterns and insights hidden in data! 📊 My curiosity drives me to constantly learn, explore, and experiment with new tools and techniques 
 in the world of data science and machine learning. I'm passionate about tackling challenging problems, whether it's through building predictive models or visualizing complex datasets.
 
+Visit my portfolio : [Myportfolio](https://alexismarceau1.github.io/)
+
 ---
 
 ### About Me
